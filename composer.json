@@ -1,5 +1,5 @@
 {
-    "name": "dutchento/m2-vatfallback",
+    "name": "andrejsfreiss/m2-vatfallback",
     "description": "Provides free VAT fallback mechanism",
     "license": "MIT",
     "type": "magento2-module",
